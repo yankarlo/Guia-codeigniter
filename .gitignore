@@ -4,3 +4,9 @@
 */cache/*
 !*/cache/index.html
 !*/cache/.htaccess
+
+/vendor/
+/user_guide
+/system
+/composer.lock
+/composer.json
